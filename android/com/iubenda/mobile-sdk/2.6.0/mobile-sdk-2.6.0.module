@@ -10,8 +10,8 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.1.1",
-      "buildId": "4ll374u7unfdhjlggvchuwluem"
+      "version": "6.3",
+      "buildId": "bqwkcbtn2bgozpjf6sbjtj2rha"
     }
   },
   "variants": [
@@ -27,11 +27,11 @@
         {
           "name": "mobile-sdk-2.6.0.aar",
           "url": "mobile-sdk-2.6.0.aar",
-          "size": 69224,
-          "sha512": "601951aed318722473f5b0871f3be8c989bec652d4d29359d8fa62e2f15a6b36a2491144898ec99fadf99762977c907891289b902c1856346854404a7e1d4bfc",
-          "sha256": "1c8ecb83dfbbaff0a13a07e99e8acab0041e177ced1acd08efc6b8466cfe2213",
-          "sha1": "2b7256a703153249bc0adba88bae0f10f915b293",
-          "md5": "b29fda6575513701e5ed2e141ea984b2"
+          "size": 70815,
+          "sha512": "315810933d94984c1a7350d9815be8a9884b6c28f2a24b5e0267684b2795f984ba03ab4aa38bb57844d62af64a0af71a4660200b732825af903d65e30ddcca83",
+          "sha256": "e7a107bf86be3dfc4ea656abaf59ccc586598c796941f4f4f4ce66514d90e436",
+          "sha1": "5a25c243cd2e014a17a66598c48b6cefc9f3bde1",
+          "md5": "82662042b12e52e8161f71be13acda76"
         }
       ]
     },
@@ -63,11 +63,11 @@
         {
           "name": "mobile-sdk-2.6.0.aar",
           "url": "mobile-sdk-2.6.0.aar",
-          "size": 69224,
-          "sha512": "601951aed318722473f5b0871f3be8c989bec652d4d29359d8fa62e2f15a6b36a2491144898ec99fadf99762977c907891289b902c1856346854404a7e1d4bfc",
-          "sha256": "1c8ecb83dfbbaff0a13a07e99e8acab0041e177ced1acd08efc6b8466cfe2213",
-          "sha1": "2b7256a703153249bc0adba88bae0f10f915b293",
-          "md5": "b29fda6575513701e5ed2e141ea984b2"
+          "size": 70815,
+          "sha512": "315810933d94984c1a7350d9815be8a9884b6c28f2a24b5e0267684b2795f984ba03ab4aa38bb57844d62af64a0af71a4660200b732825af903d65e30ddcca83",
+          "sha256": "e7a107bf86be3dfc4ea656abaf59ccc586598c796941f4f4f4ce66514d90e436",
+          "sha1": "5a25c243cd2e014a17a66598c48b6cefc9f3bde1",
+          "md5": "82662042b12e52e8161f71be13acda76"
         }
       ]
     }
