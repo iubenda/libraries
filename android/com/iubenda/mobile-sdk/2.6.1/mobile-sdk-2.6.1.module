@@ -3,7 +3,7 @@
   "component": {
     "group": "com.iubenda",
     "module": "mobile-sdk",
-    "version": "2.6.0",
+    "version": "2.6.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "wxwoaz2mhvhlhcit4iujlb4ksq"
+      "buildId": "6upg5rjtl5albdoy6227rvxzhi"
     }
   },
   "variants": [
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "mobile-sdk-2.6.0.aar",
-          "url": "mobile-sdk-2.6.0.aar",
-          "size": 70815,
-          "sha512": "315810933d94984c1a7350d9815be8a9884b6c28f2a24b5e0267684b2795f984ba03ab4aa38bb57844d62af64a0af71a4660200b732825af903d65e30ddcca83",
-          "sha256": "e7a107bf86be3dfc4ea656abaf59ccc586598c796941f4f4f4ce66514d90e436",
-          "sha1": "5a25c243cd2e014a17a66598c48b6cefc9f3bde1",
-          "md5": "82662042b12e52e8161f71be13acda76"
+          "name": "mobile-sdk-2.6.1.aar",
+          "url": "mobile-sdk-2.6.1.aar",
+          "size": 70812,
+          "sha512": "ff8df2d8eb83641c283d970237efdbdd29190c972a3b274383e716126de477926940a2adc9d38da3c1f286236c7795e182a0e74ddea55e30ce3a425bd9eacd2a",
+          "sha256": "d29534a8e8377236508ea3687a4fdfd2da436161ace46c4eb19de2ccedcd136b",
+          "sha1": "242dd32313be5c3c5d2a364dec2d70c2b7852d92",
+          "md5": "eeeea8cf29fd5ec1ba8691fdb3d43f86"
         }
       ]
     },
@@ -61,13 +61,13 @@
       ],
       "files": [
         {
-          "name": "mobile-sdk-2.6.0.aar",
-          "url": "mobile-sdk-2.6.0.aar",
-          "size": 70815,
-          "sha512": "315810933d94984c1a7350d9815be8a9884b6c28f2a24b5e0267684b2795f984ba03ab4aa38bb57844d62af64a0af71a4660200b732825af903d65e30ddcca83",
-          "sha256": "e7a107bf86be3dfc4ea656abaf59ccc586598c796941f4f4f4ce66514d90e436",
-          "sha1": "5a25c243cd2e014a17a66598c48b6cefc9f3bde1",
-          "md5": "82662042b12e52e8161f71be13acda76"
+          "name": "mobile-sdk-2.6.1.aar",
+          "url": "mobile-sdk-2.6.1.aar",
+          "size": 70812,
+          "sha512": "ff8df2d8eb83641c283d970237efdbdd29190c972a3b274383e716126de477926940a2adc9d38da3c1f286236c7795e182a0e74ddea55e30ce3a425bd9eacd2a",
+          "sha256": "d29534a8e8377236508ea3687a4fdfd2da436161ace46c4eb19de2ccedcd136b",
+          "sha1": "242dd32313be5c3c5d2a364dec2d70c2b7852d92",
+          "md5": "eeeea8cf29fd5ec1ba8691fdb3d43f86"
         }
       ]
     }
