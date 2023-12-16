@@ -5,7 +5,6 @@ import PackageDescription
 
 let package = Package(
     name: "IubendaMobileSDK",
-    defaultLocalization: "en",
     platforms: [
            .iOS(.v12), // or the appropriate platform
            .tvOS(.v12) // or the appropriate platform
