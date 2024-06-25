@@ -1,0 +1,74 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.iubenda",
+    "module": "mobile-sdk",
+    "version": "2.8.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "mobile-sdk-2.8.1.aar",
+          "url": "mobile-sdk-2.8.1.aar",
+          "size": 98576,
+          "sha512": "58628b04c6804fb9267531c92d7512eb2f3db1bb8beba7eebef5ca29eae78bccffe639c195eaa71a2fcc07ca20bbb622c617fa6ff0147107267751c6d903ec49",
+          "sha256": "ef166ce357c48f01a5be3fa8713b457f7f7754331e8fd555a7b4a9cd69160c79",
+          "sha1": "fa76d9f4ec90ebf38ab9be3ff58ffc2bb5d96b11",
+          "md5": "af56a7f55ed3915c13ee25c20280fb36"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "com.android.support",
+          "module": "support-annotations",
+          "version": {
+            "requires": "28.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mobile-sdk-2.8.1.aar",
+          "url": "mobile-sdk-2.8.1.aar",
+          "size": 98576,
+          "sha512": "58628b04c6804fb9267531c92d7512eb2f3db1bb8beba7eebef5ca29eae78bccffe639c195eaa71a2fcc07ca20bbb622c617fa6ff0147107267751c6d903ec49",
+          "sha256": "ef166ce357c48f01a5be3fa8713b457f7f7754331e8fd555a7b4a9cd69160c79",
+          "sha1": "fa76d9f4ec90ebf38ab9be3ff58ffc2bb5d96b11",
+          "md5": "af56a7f55ed3915c13ee25c20280fb36"
+        }
+      ]
+    }
+  ]
+}
