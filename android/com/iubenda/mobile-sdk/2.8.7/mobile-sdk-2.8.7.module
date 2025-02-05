@@ -69,6 +69,46 @@
           "md5": "530f2045d4a1a9edc9f943beaa3f664c"
         }
       ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mobile-sdk-2.8.7-sources.jar",
+          "url": "mobile-sdk-2.8.7-sources.jar",
+          "size": 43413,
+          "sha512": "790bd14bdff489311ad724345a332217b315671bc7aac50044df03cff122c3fe68921756d7ac95c9aee5489594eec5c10d76bd2ec7d429e220d8beb224000780",
+          "sha256": "ad3d61555672d899f463ee437ab51a7814384c78791f0ea84a20f8fe1f8842df",
+          "sha1": "147542c523f197c3814092a9ca74d20030657fce",
+          "md5": "3a105685bef2bcef93df5c92eb6696f1"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mobile-sdk-2.8.7-javadoc.jar",
+          "url": "mobile-sdk-2.8.7-javadoc.jar",
+          "size": 499748,
+          "sha512": "dd44f268858f2b33fcead299baba35d544f1d4e64a3815a11c20bf25f4bc211b895fb314e13fc565c619befa347d9252d27b5202b7161845cbbe25be80bb4d7f",
+          "sha256": "54d99b1977dcfdd7624f45d54471a422db6b0d6ed53380796b6ed1fb867e181f",
+          "sha1": "db1216f2501748da0d994bcb8051de65348564a1",
+          "md5": "98e2ef7f59faf75e9bd17dc648ca908b"
+        }
+      ]
     }
   ]
 }
