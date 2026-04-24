@@ -3,7 +3,7 @@
   "component": {
     "group": "com.iubenda",
     "module": "mobile-sdk",
-    "version": "2.9.6",
+    "version": "2.9.8",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -24,13 +24,13 @@
       },
       "files": [
         {
-          "name": "mobile-sdk-2.9.6.aar",
-          "url": "mobile-sdk-2.9.6.aar",
-          "size": 105709,
-          "sha512": "37ada94113d98e60bea910c3b9480f9caf9346a5f03df8fd889dbeef5d64354ceeffdd194f573e113a005e4c93d97470b04379a56304c96d981a895b24a8e718",
-          "sha256": "d962eedcae962e53ea8e0eaf7871831d0889476c523f9988049c46eae8ef6d99",
-          "sha1": "fe433706cd242d5a6e8ba6e89603daf15bcef1ce",
-          "md5": "87994200652e32f30e9013531c989372"
+          "name": "mobile-sdk-2.9.8.aar",
+          "url": "mobile-sdk-2.9.8.aar",
+          "size": 105710,
+          "sha512": "a44532af6e1baedec64aaea4da5b9aa7c4fce6cf974f543e4c6d37a7d4c5e8f836fc75fa26500dbdbf82e38df86bc9c5407f26871beac5c0673825aaddf2930f",
+          "sha256": "5d4540edfd614f2ecb48243d14cacb68acd39bd137a6640ab349a4faade292a1",
+          "sha1": "b8a843c5dee5b540f1c6227f703ce30756a3fe04",
+          "md5": "80568143f90d069cc9bcc5f38e4f8633"
         }
       ]
     },
@@ -60,13 +60,13 @@
       ],
       "files": [
         {
-          "name": "mobile-sdk-2.9.6.aar",
-          "url": "mobile-sdk-2.9.6.aar",
-          "size": 105709,
-          "sha512": "37ada94113d98e60bea910c3b9480f9caf9346a5f03df8fd889dbeef5d64354ceeffdd194f573e113a005e4c93d97470b04379a56304c96d981a895b24a8e718",
-          "sha256": "d962eedcae962e53ea8e0eaf7871831d0889476c523f9988049c46eae8ef6d99",
-          "sha1": "fe433706cd242d5a6e8ba6e89603daf15bcef1ce",
-          "md5": "87994200652e32f30e9013531c989372"
+          "name": "mobile-sdk-2.9.8.aar",
+          "url": "mobile-sdk-2.9.8.aar",
+          "size": 105710,
+          "sha512": "a44532af6e1baedec64aaea4da5b9aa7c4fce6cf974f543e4c6d37a7d4c5e8f836fc75fa26500dbdbf82e38df86bc9c5407f26871beac5c0673825aaddf2930f",
+          "sha256": "5d4540edfd614f2ecb48243d14cacb68acd39bd137a6640ab349a4faade292a1",
+          "sha1": "b8a843c5dee5b540f1c6227f703ce30756a3fe04",
+          "md5": "80568143f90d069cc9bcc5f38e4f8633"
         }
       ]
     }
